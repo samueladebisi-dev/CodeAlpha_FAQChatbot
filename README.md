@@ -18,14 +18,14 @@ An AI-powered chatbot that answers questions by matching user input with the mos
 - Streamlit
 - Scikit-learn (TF-IDF, Cosine Similarity)
 
+## 📸 Preview
+
+![Chatbot Preview 1](chatbot_preview_images/chatbot_preview1.png)
+![Chatbot Preview 2](chatbot_preview_images/chatbot_preview2.png)
+![Chatbot Preview 3](chatbot_preview_images/chatbot_preview3.png)
+
 ## ▶️ How to Run
 
 ```bash
 pip install -r requirements.txt
 streamlit run chatbot_app.py
-
-## 📸 Preview
-
-![Chatbot Screenshot]("C:\Users\HP\Desktop\AI CHATBOT\chatbot_preview_images\chatbot_preview1.png")
-                     ("C:\Users\HP\Desktop\AI CHATBOT\chatbot_preview_images\chatbot_preview2.png")
-                     ("C:\Users\HP\Desktop\AI CHATBOT\chatbot_preview_images\chatbot_preview3.png")
