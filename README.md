@@ -31,13 +31,13 @@ ___
 1. Clone the repository
 
 ```bash
-git clone https://github.com/samueladebisi-dev/CodeAlpha_FAQChatbot.git
+git clone https://github.com/samueladebisi-dev/ai-faq-chatbot.git
 ```
 
 2. Navigate into the project folder
 
 ```bash
-cd CodeAlpha_FAQChatbot
+cd ai-faq-chatbot
 ```
 
 3. Create and activate a virtual environment
